@@ -1,4 +1,5 @@
-#CARA MENJALANKAN APPS/WEBSITE
+##CARA MENJALANKAN APPS/WEBSITE
+
 Aplikasi ini berbasis web yang dibuat menggunakan bahasa pemrograman php , jadi
 untuk menjalankan aplikasi ini server . Maksudnya jika aplikasi ini telah di upload ke
 hosting maka tinggal menuju alamat dari web ini .
